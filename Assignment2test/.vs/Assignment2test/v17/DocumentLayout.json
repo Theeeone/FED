@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\viewmodel\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:viewmodel\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|c:\\users\\maxda\\source\\repos\\assignment2test\\assignment2test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8781E6A-27B0-48C5-96B4-8E9BBC01EC9F}|Assignment2test.csproj|solutionrelative:assignment2test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T11:24:21.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:24:18.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\ViewModel\\DetailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DetailViewModel.cs",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\ViewModel\\DetailViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:18:59.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "DetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\DetailPage.xaml.cs",
+              "RelativeToolTip": "DetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:17:50.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "DetailPage.xaml",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\DetailPage.xaml",
+              "RelativeToolTip": "DetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T11:17:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:04:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment2test.csproj",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\Assignment2test.csproj",
+              "RelativeDocumentMoniker": "Assignment2test.csproj",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\Assignment2test.csproj",
+              "RelativeToolTip": "Assignment2test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T02:01:01.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwCoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T01:35:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:34:51.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:16:26.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
