@@ -33450,11 +33450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\Assignment2test.csproj",
+      "projectUniqueName": "C:\\Users\\maxda\\OneDrive\\Dokumenter\\GitHub\\FED\\Assignment2test\\Assignment2test.csproj",
       "projectName": "Assignment2test",
-      "projectPath": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\Assignment2test.csproj",
+      "projectPath": "C:\\Users\\maxda\\OneDrive\\Dokumenter\\GitHub\\FED\\Assignment2test\\Assignment2test.csproj",
       "packagesPath": "C:\\Users\\maxda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\obj\\",
+      "outputPath": "C:\\Users\\maxda\\OneDrive\\Dokumenter\\GitHub\\FED\\Assignment2test\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -12,41 +12,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Assignment2test
-build_property.ProjectDir = C:\Users\maxda\source\repos\Assignment2test\
+build_property.ProjectDir = C:\Users\maxda\OneDrive\Dokumenter\GitHub\FED\Assignment2test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/maxda/source/repos/Assignment2test/App.xaml]
+[C:/Users/maxda/OneDrive/Dokumenter/GitHub/FED/Assignment2test/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment2test.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/maxda/source/repos/Assignment2test/AppShell.xaml]
+[C:/Users/maxda/OneDrive/Dokumenter/GitHub/FED/Assignment2test/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment2test.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/maxda/source/repos/Assignment2test/DetailPage.xaml]
+[C:/Users/maxda/OneDrive/Dokumenter/GitHub/FED/Assignment2test/DetailPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment2test.DetailPage.xaml
 build_metadata.AdditionalFiles.TargetPath = DetailPage.xaml
 build_metadata.AdditionalFiles.RelativePath = DetailPage.xaml
 
-[C:/Users/maxda/source/repos/Assignment2test/MainPage.xaml]
+[C:/Users/maxda/OneDrive/Dokumenter/GitHub/FED/Assignment2test/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment2test.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/maxda/source/repos/Assignment2test/Resources/Styles/Colors.xaml]
+[C:/Users/maxda/OneDrive/Dokumenter/GitHub/FED/Assignment2test/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment2test.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/maxda/source/repos/Assignment2test/Resources/Styles/Styles.xaml]
+[C:/Users/maxda/OneDrive/Dokumenter/GitHub/FED/Assignment2test/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Assignment2test.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

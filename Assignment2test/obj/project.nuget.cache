@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nbcNE11mzh8Al3s6vNw/TEKS6yFoD6Cy4a1Fw+WQ0i37B9UyFtgNjOO3/9gQ3mN2QdvRPsjB2cH3x8OllermxQ==",
+  "dgSpecHash": "+sI2YEEH3ESqS95UDG7fFcbtTjJHpwDVPhdq+CIxUddMT6SGX2Jno+7QNJT9/GD2um8zxhhoSp9rNW98ROXseA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxda\\source\\repos\\Assignment2test\\Assignment2test.csproj",
+  "projectFilePath": "C:\\Users\\maxda\\OneDrive\\Dokumenter\\GitHub\\FED\\Assignment2test\\Assignment2test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxda\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\maxda\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
